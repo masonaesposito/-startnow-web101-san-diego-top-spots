@@ -1,4 +1,1 @@
-*.log
-.vscode
-DS_Store
-node_modules
+Top spots in San Diego!
